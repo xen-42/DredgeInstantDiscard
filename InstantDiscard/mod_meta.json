@@ -1,0 +1,8 @@
+{
+  "Name": "Instant Discard",
+  "ModGUID": "xen.InstantDiscard",
+  "Version": "0.0.1",
+  "ModAssembly": "InstantDiscard.dll",
+  "MinWinchVersion": "0.2.3",
+  "Entrypoint": "InstantDiscard.InstantDiscardPatches/Initialize"
+}
